@@ -8,7 +8,7 @@ Fullstack User Dashboard adalah aplikasi web berbasis Laravel dan React yang men
 - 🛠 CRUD (Create, Read, Update, Delete) User  
 - 🌐 API dengan Laravel  
 
-## 🛠 Teknologi  
+## 🛠 Tech Stack  
 - **Frontend:** React + Tailwind CSS  
 - **Backend:** Laravel  
 - **Database:** MySQL  
